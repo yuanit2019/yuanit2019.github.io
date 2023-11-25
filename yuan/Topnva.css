@@ -1,0 +1,26 @@
+/*全局头部*/
+.Top{width:100%;height:48px;background:#333;position:relative;z-index:10000;font-size: 12px;}
+.Top .tophead{width:1600px;height:48px;margin:0 auto;}
+.Top .topnav{width:1000px;height:48px;float:left;padding-left: 20px;background:url(images/index-icon.png) no-repeat -125px 17px;}
+.Top .topnav ul{padding: 0;}
+.Top .topnav li{width:80px;height:48px;line-height:48px;border-right:#222 1px solid;float:left;font-size:14px;text-align:center;}
+.Top .topnav li a {color: #fff !important;}
+.Top .topnav li a:hover {color: #ff5722 !important;}
+.Top .topnav li.w{width: 160px;}
+.Top .topnav li.hover{height:46px;line-height:46px;border-top:#ff5722 2px solid;}
+.Top .topnav li.wan {width: 70px;}
+.Top .topnav li.wh {width:60px;}
+.Top .topnav li.wan a {color: #ff5722 !important;}
+.Top .topnav li.wan a:hover {color: #3399ff !important;}
+
+.Top .t1c_login_con {position: relative;float: right;height: 48px;line-height: 48px;color: #737e91;}
+.Top .t1c_login_con .avatar {display: inline-block;width: 14px;height: 14px;margin: 17px 5px;background:url(images/index-icon.png) no-repeat -126px -33px;float: left;overflow: hidden;}
+.Top .t1c_login_con .Login {display: inline-block;height: 28px;line-height: 28px;margin: 9.5px 2px;color: #748090;font-size: 14px;cursor: pointer;}
+.Top .t1c_login_con .spliter {display: inline-block;height: 28px;line-height: 28px;margin: 9.5px 2px;color: #748090;font-size: 14px;}
+.Top .t1c_login_con .reg {height: 28px;line-height: 28px;margin: 9.5px 2px;color: #748090;font-size: 14px;text-decoration: none;}
+.Top .t1c_login_con a {color: #fff !important;}
+.Top .t1c_login_con .img{width: 30px;height: 30px;margin-top: 8px;}
+.Top .t1c_login_con .img img{width: 30px;height: 30px;border-radius: 100px;vertical-align:0}
+.Top .t1c_login_con li{float: left;color: #fff;padding: 0 5px;}
+.Top .t1c_login_con li a{}
+/*全局头部 end*/
